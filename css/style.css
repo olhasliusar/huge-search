@@ -26,6 +26,7 @@ body{
     border: 0 solid  #F1F1F1;
     font-size: 100px;
     font-weight: bold;
+    outline: none;
 }
 .ba-header [type="text"]:hover{
     color: #EC5A62;
@@ -36,6 +37,7 @@ body{
 	width: 85px;
 	height: 85px;
 	border: none;
+	outline: none;
 }
 .list ul, .list h3{
 	display: inline-block;
